@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `OneMoreBottlee/onemorebottlee.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -14,13 +14,14 @@ module.exports = {
     name: `한병주`,
     bio: {
       role: `프론트엔드 개발자`,
-      description: ['데이터의 가치를 아는', '맡은 임무에 최선을 다하는', '한 잔의 여유를 즐기는'],
+      description: ['오늘만큼 내일도 기대되는', '매일 학습하며 성장하는', '데이터 시각화에 관심많은'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/OneMoreBottlee`, 
       linkedIn: ``, 
       email: `hbj9503@naver.com`, 
+      notion: 'ggg'
     },
   },
 
@@ -100,12 +101,12 @@ module.exports = {
       {
         title: '슬기로운 생활',
         description:
-          '설명을 적어줍시다',
+          '도전에 동기를 더하는 웹 어플리케이션',
         // '개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.',
-        techStack: ['react', 'styled-components'],
+        techStack: ['React', 'Recoil', 'Axios', 'React-Hook-Form', 'Styled-components', 'KakaoAPI'],
         thumbnailUrl: 'blog.png',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
+          post: '',
           github: 'https://github.com/codestates-seb/seb40_main_009/tree/BJ',
           demo: 'https://wiselife.click/',
         },
