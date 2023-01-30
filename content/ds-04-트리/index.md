@@ -10,7 +10,7 @@ categories: CS 자료구조 알고리즘
 ## **트리 Tree**
 
 <div align="center">
-    <img src="./Tree.png" width="50%" alt="Tree">
+    <img src="./image1.png" width="50%" alt="Tree">
 </div>
 
 ### **특징**  
@@ -26,7 +26,7 @@ categories: CS 자료구조 알고리즘
 ## **이진 탐색 트리 Binary Search Tree**
 
 <div align="center">
-    <img src="./BinarySearchTree.png" width="50%" alt="BinarySearchTree">
+    <img src="./image2.png" width="50%" alt="BinarySearchTree">
 </div>
 
 ### **특징**
@@ -54,7 +54,7 @@ categories: CS 자료구조 알고리즘
 ### **BFS - Breadth First Search**
 
 <div align="center">
-    <img src="./BFS.png" width="50%" alt="BFS">
+    <img src="./image3.png" width="50%" alt="BFS">
 </div>
 
 너비 우선 탐색은 트리를 한 층씩 확인하는 방법이다.
@@ -66,7 +66,7 @@ categories: CS 자료구조 알고리즘
 ### **DFS - Deep First Search**
 
 <div align="center">
-    <img src="./DFS.png" width="50%" alt="DFS">
+    <img src="./image4.png" width="50%" alt="DFS">
 </div>
 
 깊이 우선 탐색은 트리의 한쪽 마지막 자식 노드(Leaf 노드)를 확인한 후 순차적으로 반대쪽 끝까지 마지막 자식 노드를 확인하는 방법이다.
