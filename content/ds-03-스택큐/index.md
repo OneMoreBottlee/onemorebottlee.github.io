@@ -3,8 +3,8 @@ emoji: 🗂
 title: 자료구조 - 스택/큐
 date: '2023-01-16 22:30:00'
 author: onemorebottlee
-tags: blog 자료구조 CS 알고리즘 스택 큐
-categories: CS 자료구조 알고리즘
+tags: blog 자료구조 CS 스택 큐
+categories: CS 자료구조
 ---
 
 ## **스택 Stack**
