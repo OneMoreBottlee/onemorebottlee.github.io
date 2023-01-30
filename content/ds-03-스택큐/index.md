@@ -1,9 +1,9 @@
 ---
 emoji: 🗂
-title: 자료구조 스택/큐
+title: 자료구조 - 스택/큐
 date: '2023-01-16 22:30:00'
 author: onemorebottlee
-tags: blog 자료구조 리스트 CS 알고리즘
+tags: blog 자료구조 CS 알고리즘 스택 큐
 categories: CS 자료구조 알고리즘
 ---
 
@@ -19,6 +19,8 @@ categories: CS 자료구조 알고리즘
 위 그림과 같이 순서대로 쌓아 올려진 형태이다.   
 
 데이터 입력은 push, 데이터 출력은 pop 이라 한다.
+
+### **예시**  
 
 최근 추가된 데이터부터 순차적으로 사용되기에 ctrl Z 나 브라우저 방문 기록과 같이 최근 동작을 기억하고, 사용하는 경우에 주로 사용한다.
 
@@ -44,6 +46,8 @@ categories: CS 자료구조 알고리즘
 큐은 FIFO (Fist In First Out / 선입선출) 의 특징을 가진 자료 구조다.  
 
 데이터 입력은 Enqueue, 데이터 출력은 Dequeue 라 한다. 
+
+### **예시**  
 
 어떤 작업을 순서대로 실행하기 위해 대기시킬 때 (like 프린트 대기열) 사용한다.
 

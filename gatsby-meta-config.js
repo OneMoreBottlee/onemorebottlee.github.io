@@ -107,7 +107,7 @@ module.exports = {
         thumbnailUrl: 'blog.png',
         links: {
           post: '',
-          github: 'https://github.com/codestates-seb/seb40_main_009/tree/BJ',
+          github: 'https://github.com/OneMoreBottlee/project_wiselife',
           demo: 'https://wiselife.click/',
         },
       },

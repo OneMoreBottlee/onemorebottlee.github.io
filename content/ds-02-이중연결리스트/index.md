@@ -1,9 +1,9 @@
 ---
 emoji: 🗂
-title: 이중 연결 리스트
+title: 자료구조 - 이중 연결 리스트
 date: '2023-01-14 23:00:00'
 author: onemorebottlee
-tags: blog 자료구조 리스트 CS 알고리즘
+tags: blog 자료구조 리스트 CS 알고리즘 연결리스트
 categories: CS 자료구조 알고리즘
 ---
 
